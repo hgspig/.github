@@ -2,7 +2,7 @@
 
 📖 **Recommended reading**: [React.dev - Your First Component](https://react.dev/learn/your-first-component)
 
-React components allow you to modularize the functionality of your application. This allows the underlying code to directly represent the components that a user interacts with. It also enables code reuse as common application component often show up repeatedly.
+React components allow you to modularize the functionality of your application. This allows the underlying code to directly represent the components that a user interacts with. It also enables code reuse as common application components often show up repeatedly.
 
 ## The render function
 
